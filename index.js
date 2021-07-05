@@ -11,43 +11,42 @@ const questions = [
         name: "title",
         message: "What is the title of your project?",
     },
-    {
-        type: "input",
-        name: "description",
-        message: "Enter a description of your project.",
-    },
-    {
-        type: "input",
-        name: "install",
-        message: "What are the installation instructions for your project?",
-    },
-
-    {
-        type: "input",
-        name: "contribute",
-        message: "How can others contribute to your project?",
-    },
-    {
-        type: "input",
-        name: "testing",
-        message: "What are the testing instructions for your project?",
-    },
-    {
-        type: "list",
-        name: "licence",
-        message: "What is the licence for your project?",
-        choices: ["MIT", "Clause", "BSD-2"],
-    },
-    {
-        type: "input",
-        name: "github",
-        message: "What is your GitHub username?",
-    },
-    {
-        type: "input",
-        name: "email",
-        message: "What is your email address?",
-    },
+    // {
+    //     type: "input",
+    //     name: "description",
+    //     message: "Enter a description of your project.",
+    // },
+    // {
+    //     type: "input",
+    //     name: "install",
+    //     message: "What are the installation instructions for your project?",
+    // },
+    // {
+    //     type: "input",
+    //     name: "contribute",
+    //     message: "How can others contribute to your project?",
+    // },
+    // {
+    //     type: "input",
+    //     name: "testing",
+    //     message: "What are the testing instructions for your project?",
+    // },
+    // {
+    //     type: "list",
+    //     name: "licence",
+    //     message: "What is the licence for your project?",
+    //     choices: ["MIT", "Clause", "BSD-2"],
+    // },
+    // {
+    //     type: "input",
+    //     name: "github",
+    //     message: "What is your GitHub username?",
+    // },
+    // {
+    //     type: "input",
+    //     name: "email",
+    //     message: "What is your email address?",
+    // },
 ];
 
 // TODO: Create a function to write README file
