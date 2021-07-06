@@ -20,12 +20,12 @@ function generateMarkdown(data) {
     return `# ${data.title}, 
     ${renderLicenseBadge(data.license)}
     ## Table of Contents
-    I. Description
-    II. Install Instructions
-    III. Usage Information
-    IV. Contribution Guidelines
-    V. Testing Instructions
-    VI. Contact
+    I. Description  
+    II. Install Instructions  
+    III. Usage Information  
+    IV. Contribution Guidelines  
+    V. Testing Instructions  
+    VI. Contact  
 
     ## Description
     ${data.description}
