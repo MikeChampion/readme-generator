@@ -27,7 +27,7 @@ Open the terminal and run this using 'node index.js'. You'll be presented with a
 
 ### Project Screenshot
 
-![alt text](assets/images/screenshot.png)
+![Screenshot of readme generator](./assets/images/readme-screenshot.png)
 
 ### Credits
 
