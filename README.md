@@ -9,7 +9,7 @@ II. [Install Instructions](#install-instructions)
 III. [Usage Information](#usage-information)  
 IV. [Contribution Guidelines](#contribution-guidelines)  
 V. [Testing Instructions](#testing-instructions)  
-VI. [Contact](#contact)  
+VI. [Questions / Contact](#contact)  
 VII. [License](#license)
 
 ## <a id="description">I. Description</a>
@@ -43,7 +43,9 @@ If you would like to contribute to this project email me at ChampionMike42@gmail
 
 No testing instructions at this time.
 
-## <a id="contact">VI. Contact</a>
+## <a id="contact">VI. Questions / Contact</a>
+
+If you have any questions, or want to contribute to this or any other project feel free to contact me.
 
 ### email
 
@@ -51,7 +53,7 @@ ChampionMike42@gmail.com
 
 ### GitHub
 
-MikeChampion
+<a href="https://github.com/MikeChampion" target="_blank">MikeChampion @ Github</a>
 
 ## <a id="license">VII. License</a>
 

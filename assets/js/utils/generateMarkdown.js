@@ -70,6 +70,7 @@ ${data.contribute}
 ## <a id="testing-instructions">V. Testing Instructions</a>
 ${data.testing}
 ## <a id="contact">VI. Questions / Contact</a>
+If you have any questions, or want to contribute to this or any other project feel free to contact me.
 ### email
 ${data.email}
 ### GitHub
