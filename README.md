@@ -23,7 +23,9 @@ Fork this repository and clone it to your local machine. If you don't have Inqui
 
 ## <a id="usage-information">III. Usage Information</a>
 
-Open the terminal and run this using 'node index.js'. You'll be presented with a series of prompts, gathering information to build your README. Once all prompts are answered you'll have a brand new README that you can copy and paste into your new project. The generated README will be in 'assets/js/', this is the one you should copy/paste. Please leave the README in the root directory (this README) for reference.
+Open the terminal and run this using 'node index.js'. You'll be presented with a series of prompts, gathering information to build your README. Once all prompts are answered you'll have a brand new README that you can copy and paste into your new project. The generated README will be in 'assets/js/', this is the one you should copy/paste. Please leave the README in the root directory (this README) for reference.  
+There are a few sections in the generated README that aren't in the terminal prompts. I put these in as reminders to add those if at all possible, as it may be information that comes along after the initial README is generated.  
+Remember to correct the path to the project screenshot to where you placed your screenshot.
 
 ### Project Screenshot
 
