@@ -51,7 +51,7 @@ II. [Install Instructions](#install-instructions)
 III. [Usage Information](#usage-information)  
 IV. [Contribution Guidelines](#contribution-guidelines)  
 V. [Testing Instructions](#testing-instructions)  
-VI. [Contact](#contact)  
+VI. [Questions / Contact](#contact)  
 VII. [License](#license)  
 
 ## <a id="description">I. Description</a>
@@ -69,11 +69,13 @@ ${data.usage}
 ${data.contribute}
 ## <a id="testing-instructions">V. Testing Instructions</a>
 ${data.testing}
-## <a id="contact">VI. Contact</a>
+## <a id="contact">VI. Questions / Contact</a>
 ### email
 ${data.email}
 ### GitHub
-${data.github}
+<a href="https://github.com/${data.github}" target="_blank">${
+        data.github
+    } @ Github</a>
 ${renderLicenseSection(data.license)}
 `;
 }
