@@ -62,7 +62,7 @@ ${data.install}
 ## <a id="usage-information">III. Usage Information</a>
 ${data.usage}
 ### Project Screenshot
-![alt text](assets/images/screenshot.png)
+![alt text](../images/screenshot.png)
 ### Credits
 
 ## <a id="contribution-guidelines">IV. Contribution Guidelines</a>
