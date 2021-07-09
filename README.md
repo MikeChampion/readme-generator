@@ -39,7 +39,7 @@ If you would like to contribute to this project email me at ChampionMike42@gmail
 
 ## <a id="testing-instructions">V. Testing Instructions</a>
 
-No testing instructinos at this time.
+No testing instructions at this time.
 
 ## <a id="contact">VI. Contact</a>
 
