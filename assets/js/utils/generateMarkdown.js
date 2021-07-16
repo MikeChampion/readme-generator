@@ -64,7 +64,7 @@ ${data.usage}
 ### Project Screenshot
 ![alt text](../images/screenshot.png)
 ### Credits
-(Collaborators, packages used, shout-outs)
+(Collaborators, packages used <a href="URL" target="_blank">package</a>, shout-outs)
 ## <a id="contribution-guidelines">IV. Contribution Guidelines</a>
 ${data.contribute}
 ## <a id="testing-instructions">V. Testing Instructions</a>
